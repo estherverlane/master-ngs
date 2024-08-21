@@ -1,4 +1,5 @@
-# Defina o nome do arquivo VEP
+# script para contar a quantidade de genes em um arquivo de anotação funcional
+# Nome do arquivo VEP
 nome_arquivo = 'vep.txt'
 
 # Inicialize um conjunto para armazenar os genes únicos
