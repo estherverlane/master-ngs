@@ -1,3 +1,4 @@
+# script para realizar o calculo de cobertura em extensão de varias regioes de uma vez
 import subprocess
 
 # Lista de cromossomos e seus intervalos
